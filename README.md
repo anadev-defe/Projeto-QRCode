@@ -1,0 +1,1 @@
+Olá! Nesse projeto vamos criar uma página com um QR Code.

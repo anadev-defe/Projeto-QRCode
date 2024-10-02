@@ -1,5 +1,6 @@
 body {
     background-color: #e0f2fe;
+    overflow: hidden;
 }
 .container {
     display: flex;
@@ -38,3 +39,14 @@ p {
     font-family: sans-serif;
     color: #504d4d;
 }
+footer{
+    font-size: 10pt;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+footer a:hover {
+    
+    color: #504d4d;
+  }
